@@ -2,3 +2,7 @@ body {
 	background-color: green;
 	font-size: 50 px;
 }
+
+h1 {
+	border: 5px;
+}
